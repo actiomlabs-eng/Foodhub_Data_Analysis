@@ -1,0 +1,9 @@
+# Core data stack — pinned for reproducibility on Python 3.11
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Notebook environment
+jupyterlab==4.2.5
+ipykernel==6.29.5
